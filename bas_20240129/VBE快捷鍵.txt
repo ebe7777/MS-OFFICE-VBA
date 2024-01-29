@@ -1,0 +1,5 @@
+刪除一行資料,CTRL+Y
+插入一行空白行在目前所在行,CTRL+N
+搜尋,CTRL+F
+取代,CTRL+H
+秀出程式題醒,CTRL+J
