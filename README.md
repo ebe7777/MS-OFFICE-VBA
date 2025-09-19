@@ -2,6 +2,7 @@ My [ebeDictionary] is a substitute for Microsoft VBA's [Scripting.Dictionary]
 Follow describe all the function of the class
 
 Sub example()
+
 Dim iDict1 As New ebeDictionary, iDict2 As New ebeDictionary
 Dim iCount As Long
 dim iValue as String
